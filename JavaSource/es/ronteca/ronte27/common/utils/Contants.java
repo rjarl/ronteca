@@ -1,4 +1,15 @@
-  /** ENUM OPERACIONES ACTIONS SEA*/
+
+
+package es.ronteca.ronte27.common.utils 
+
+/**
+ * 
+ * Constantes del proyecto
+ * @author 
+ */
+public class Constants {
+	
+/** ENUM OPERACIONES ACTIONS SEA*/
 		public static enum OPERACIONES{
 									PAGINAR,
 									ACEPTAR,
@@ -70,3 +81,4 @@
 		    }
 		    
 		}
+}
