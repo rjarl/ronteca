@@ -20,6 +20,7 @@ public class Constants {
 									FORMULA,
 									POLIZA,
 									USUARIO;
+									
 			/**
 			 * Comprueba si el valor pasado es no de los enums definidos							
 			 * @param val
