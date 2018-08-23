@@ -1,4 +1,4 @@
 ronteca
 =======
 
-Ronteca 2.0
+Ronteca 2.2
