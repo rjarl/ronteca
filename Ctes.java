@@ -8,5 +8,7 @@ package es.ronteca.test.rersources;
  *
  */
 public class Ctes {
+  
+  //hola
 
 }
